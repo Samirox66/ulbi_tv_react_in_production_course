@@ -1,3 +1,4 @@
+import React from "react";
 import { ButtonHTMLAttributes, FC } from "react";
 
 import cls from "./Button.module.scss";
